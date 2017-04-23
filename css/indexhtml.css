@@ -1,0 +1,35 @@
+*{
+
+margin:0;
+
+padding:0;
+
+}
+
+
+		
+#xeoserv {
+	padding-left: 40px;
+	padding-top: 50px;
+	padding-right: 60px;
+}
+
+
+
+
+#rp {
+	margin-left: 70%;
+	margin-top:-320px;
+	padding-right: 50px;
+	margin-bottom: 50px;
+	
+}
+
+
+#texterp {
+	margin-left: 0px;
+}
+
+.arcaniteroleplay {
+	padding-top: -20px;
+}
